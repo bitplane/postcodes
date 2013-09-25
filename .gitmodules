@@ -1,0 +1,3 @@
+[submodule "regex_keyspace"]
+	path = regex_keyspace
+	url = git@github.com:jamespic/regex_keyspace.git
